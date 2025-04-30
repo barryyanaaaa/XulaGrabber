@@ -1,0 +1,5 @@
+open cmd , copy and paste 
+
+pip install requests pycryptodome pywin32 discord-webhook
+
+then open python file 
