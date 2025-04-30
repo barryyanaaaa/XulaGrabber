@@ -31,3 +31,8 @@
 - New PayPal
 - Anti Delete system (re install after Discord uninstall / Discord Update)
 > + More!
+
+
+ANY ISSUES
+----------
+https://discord.gg/M7KYqDZFAt
